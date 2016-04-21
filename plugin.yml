@@ -1,0 +1,7 @@
+main: io.camden.svanish.Main
+version: 1.0
+name: sVanish
+
+commands:
+  vanish:
+    description: Toggles your vanish.
